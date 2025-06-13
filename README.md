@@ -80,7 +80,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | Wirecard Brasil | Any Language, REST API | [Code →](https://github.com/wirecardBrasil/challenge/tree/master/backend)
 | :cn: | [Wiredcraft](https://wiredcraft.com) | Node.js, Any Framework, Any Database, REST API | [Code →](https://github.com/Wiredcraft/test-backend)
 | :brazil: | [Zé Delivery](https://www.ze.delivery) | Any Language, REST API or GraphQL | [Code →](https://github.com/ZXVentures/ze-code-challenges/blob/master/backend.md)
-| :nigeria: | [Worksquare](https://work.tribesquare.co/) | Node.js(Express)/Laravel(PHP)/Django or Flask(Python) | [Code →](https://github.com/Worksquare/worksquare-backend-task)
+| :nigeria: | [Worksquare](https://work.tribesquare.co/) | Node.js(Express)/Laravel(PHP)/Django or Flask(Python) | [Code →](https://github.com/Worksquare/worksquare-backend-task) 
 
 ## Inspiration
 
