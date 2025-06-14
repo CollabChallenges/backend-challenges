@@ -70,7 +70,7 @@ Feel free to contribute! Only open-source challenges please!
 | :brazil: | [RedFoxTech](https://redfox.tech/) | Node.js, REST API & Any Database | [Code →](https://github.com/RedFoxTech/vaga-backend-teste)
 | :brazil: | [Riderize](https://www.riderize.com/) | Node.js & GraphQL | [Code →](https://github.com/Riderize/backend-test)
 | :nigeria: | [Risevest](https://risevest.com/) | Node.js, Express, Postgres | [Code →](https://github.com/risevest/backend-intern-test)
-| :nigeria: | [Risevest](https://risevest.com/) | Node.js (TypeScript & Express) or Go, Postgres, Redis, Docke, AWS S3 | [Code →](https://github.com/risevest/backend-test)
+| :nigeria: | [Risevest](https://risevest.com/) | Node.js (TypeScript & Express) or Go, Postgres, Redis, Docker | [Code →](https://github.com/risevest/backend-test)
 | :nigeria: | [Risevest](https://risevest.com/) | Node.js, TypeScript, Express, Postgres | [Code →](https://github.com/risevest/senior-backend-test)
 | :uk: | [SamKnows](https://www.samknows.com/) | PHP | [Code →](https://github.com/SamKnows/backend-engineering-test/blob/master/README.md)
 | :norway: | [Schibsted](https://schibsted.com/) |Java or Kotlin | [Code →](https://github.com/scm-spain/ms-ma--backend-test)
