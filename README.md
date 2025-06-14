@@ -124,7 +124,6 @@ Feel free to contribute! Only open-source challenges please!
 | :uk: | [BBC](https://bbc.co.uk/opensource/) | Java/C++/Python/ | [Code →](https://github.com/bbc/news-observation-assessment-trainees)
 | :uruguay: | [Crunchloop](https://crunchloop.io) | Any Language/Framework | [Code →](https://github.com/crunchloop/challenge-senior-engineer)
 | :hong_kong: | [Lalamove](http://lalamove.com) | Golang/Java/Node.js/PHP | [Code →](https://github.com/lalamove/challenge/blob/master/backend.md)
-| :hong_kong: | [Lalamove](http://lalamove.com) | Golang/Java/Node.js/PHP | [Code →](https://github.com/lalamove/challenge/blob/master/backend.md)
 
 ## Inspiration
 
