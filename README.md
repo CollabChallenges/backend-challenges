@@ -86,7 +86,7 @@ Feel free to contribute! Only open-source challenges please!
 | :cn: | [Wiredcraft](https://wiredcraft.com) | Node.js, Any Framework, Any Database, REST API | [Code →](https://github.com/Wiredcraft/test-backend)
 | :brazil: | [Zé Delivery](https://www.ze.delivery) | Any Language, REST API or GraphQL | [Code →](https://github.com/ZXVentures/ze-code-challenges/blob/master/backend.md)
 | :nigeria: | [Worksquare](https://work.tribesquare.co/) | Node.js(Express)/Laravel(PHP)/Django or Flask(Python) | [Code →](https://github.com/Worksquare/worksquare-backend-task) 
-| :turkiye: | [Teknasyon](https://teknasyon.com/) | Golang/Node.js/PHP, Kafka, Docker, Git | [Code →](https://github.com/Teknasyon/assessments-backend) 
+| :tr: | [Teknasyon](https://teknasyon.com/) | Golang/Node.js/PHP, Kafka, Docker, Git | [Code →](https://github.com/Teknasyon/assessments-backend) 
 | :brazil: | [Anota AI](https://anota.ai) | Node.js, Express.js, AWS S3, AWS SQS, MongoDB | [Code →](https://github.com/githubanotaai/new-test-backend-nodejs) 
 | :uk: | [Reach Industries](https://reach.industries/) | Golang, Docker, Kafka | [Code →](https://github.com/Reach-Industries/Backend-Golang-Developer-Test)
 | :egypt: | [Bosta](https://bosta.co) | Any Language, Docker | [Code →](https://github.com/bostaapp/be-assessment)
