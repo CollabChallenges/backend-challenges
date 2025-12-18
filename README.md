@@ -128,6 +128,15 @@ Feel free to contribute! Only open-source challenges please!
 | :uk: | [BBC](https://bbc.co.uk/opensource/) | Java/C++/Python/ | [Code →](https://github.com/bbc/news-observation-assessment-trainees)
 | :uruguay: | [Crunchloop](https://crunchloop.io) | Any Language/Framework | [Code →](https://github.com/crunchloop/challenge-senior-engineer)
 | :hong_kong: | [Lalamove](http://lalamove.com) | Golang/Java/Node.js/PHP | [Code →](https://github.com/lalamove/challenge/blob/master/backend.md) 
+| :spain: | [Holded](http://www.holded.com) | PHP | [Code →](https://github.com/holdedhub/careers/blob/main/challenges/backend/README.md) 
+| :uk: | [LifeWorks](https://lhs.net.au/) | Python/Node.js/PHP | [Code →](https://github.com/workivate/backend-assessment) 
+| :us: | [Kippa](https://kippa.africa) | Any Language | [Code →](https://github.com/Africave-Team/kippa-senior-backend-engineer-technical) 
+| :germany: | [Thermondo](http://thermondo.github.io) | Any Language | [Code →](https://github.com/thermondo/backend-coding-challenge)   
+| :egypt: | [Illa](https://www.illatrucking.com/) | Any Language | [Code →](https://github.com/go-illa/backend-take-home-assignment)  
+| :germany: | [Door2Door](https://www.door2door.io) | Python/Ruby/Kotlin/Javascript | [Code →](https://github.com/door2door-io/d2d-code-challenges/blob/main/backend)
+| 🇮🇳: | [Give](https://www.give.do) | Any Language | [Code →](https://github.com/give-india/backend-developer-challenge)
+| 🇮🇳: | [Give](https://www.give.do) | Any Language | [Code →](https://github.com/give-india/senior-backend-developer-challenge)
+| :us: | [Kensu](http://www.kensu.io) | Golang | [Code →](https://github.com/kensuio/exercise-dev-backend/blob/main/go/carrier-pricing/carrier-data.md)
 
 ## Inspiration
 
