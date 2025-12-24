@@ -137,6 +137,10 @@ Feel free to contribute! Only open-source challenges please!
 | 🇮🇳: | [Give](https://www.give.do) | Any Language | [Code →](https://github.com/give-india/backend-developer-challenge)
 | 🇮🇳: | [Give](https://www.give.do) | Any Language | [Code →](https://github.com/give-india/senior-backend-developer-challenge)
 | :us: | [Kensu](http://www.kensu.io) | Golang | [Code →](https://github.com/kensuio/exercise-dev-backend/blob/main/go/carrier-pricing/carrier-data.md)
+| :us: | [Checkout](https://www.checkout.com/careers) | Golang | [Code →](https://github.com/cko-recruitment/payment-gateway-challenge-go)
+| :us: | [Checkout](https://www.checkout.com/careers) | Python | [Code →](https://github.com/cko-recruitment/payment-gateway-challenge-python)
+| :us: | [Checkout](https://www.checkout.com/careers) | Java | [Code →](https://github.com/cko-recruitment/payment-gateway-challenge-java)
+| :us: | [Checkout](https://www.checkout.com/careers) | C# | [Code →](https://github.com/cko-recruitment/payment-gateway-challenge-dotnet)
 
 ## Inspiration
 
